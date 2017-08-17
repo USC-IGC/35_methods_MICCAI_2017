@@ -33,9 +33,8 @@ And you need `psych` package. To install it run following in R shell:
 To install needed Python dependencies run next in terminal:
 
 ```bash
-$ pip3 install -r https://github.com/lodurality/35_methods_MICCAI_2017/blob/master/requirements.txt
+$ pip3 install -r https://github.com/USC-IGC/connectome-evaluation-miccai2017/blob/master/requirements.txt
 ```
-
 ##### Scripts Running
 
 There are three main scripts in `scripts` directory:
